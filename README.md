@@ -1,8 +1,8 @@
 ### Hi👋 这是一份关于我的介绍
 
-##### 程序员木佑/男/96.11
-##### 湖南软件职业技术大学(2016～2019)/软件技术(Java应用开发方向)
-##### 前端开发工程师
+##### 基本信息：程序员木佑/男/96.11
+##### 教育经历：湖南软件职业技术大学(2016～2019)/软件技术(Java应用开发方向)
+##### 职业：前端开发工程师
 <!--
 **hitanquan/hitanquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
