@@ -1,7 +1,7 @@
 ### Hi👋 这是一份关于我的介绍
 
 - 💬 基本信息：程序员木佑/男/96.11
-- 🎓 教育经历：湖南软件职业技术大学(2016～2019)/软件技术(Java应用开发方向)
+- 🎓 教育经历：湖南软件职业技术大学(2016～2019)/软件工程系/软件技术(Java应用开发方向)
 - 💼 职业：前端开发工程师
 - 💻 技术栈：html、css、js、vue、react、小程序、uniapp、nodejs、java
 - 👯 公众号：<a href="https://github.com/hitanquan/hitanquan/blob/main/official_account%20qr_code.png" target="_blank">公众号『 程序员木佑 』</a>
