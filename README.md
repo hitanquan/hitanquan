@@ -5,8 +5,10 @@
 - 💼 职业：前端开发工程师
 - 💻 技术栈：html、css、js、vue、react、小程序、uniapp、nodejs、java
 - 👯 公众号：<a href="https://github.com/hitanquan/hitanquan/blob/main/official_account%20qr_code.png" target="_blank">公众号『 程序员木佑 』</a>
+- 👨‍💻‍ 知识星球：<a href="https://github.com/hitanquan/hitanquan/blob/main/xingqiu.png" target="_blank"> 知识星球『 前端开发笔记 』</a>
 - 💪 掘金：<a href="https://juejin.cn/user/3593619013907822" target="_blank">掘金『 程序员木佑 』</a>
 - 😄 github-pages：<a href="https://hitanquan.github.io/" target="_blank">github-pages『 程序员木佑 』</a>
+- 📚 微信读书：<a href="https://muyoujun-wechat-read.notion.site/8e5cc9e318a14dd282892b6e6a798b13" target="_blank">notion『 微信读书 』</a>
 
   
 <!--
