@@ -4,7 +4,11 @@
 - 教育经历：湖南软件职业技术大学(2016～2019)/软件技术(Java应用开发方向)
 - 职业：前端开发工程师
 - 技术栈：html、css、js、vue、react、小程序、uniapp、nodejs、java
-- 💻 干货：<a href="https://github.com/hitanquan/hitanquan/blob/main/official_account%20qr_code.png" target="_blank">公众号『 程序员木佑 』</a>
+- 💻 公众号：<a href="https://github.com/hitanquan/hitanquan/blob/main/official_account%20qr_code.png" target="_blank">公众号『 程序员木佑 』</a>
+- 💪 掘金：<a href="https://juejin.cn/user/3593619013907822" target="_blank">掘金『 程序员木佑 』</a>
+- 🌱 github-pages：<a href="https://hitanquan.github.io/" target="_blank">github-pages『 程序员木佑 』</a>
+
+  
 <!--
 **hitanquan/hitanquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
