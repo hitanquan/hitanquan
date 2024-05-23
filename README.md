@@ -9,7 +9,7 @@
 - 💪 掘金：<a href="https://juejin.cn/user/3593619013907822" target="_blank">掘金『 程序员木佑 』</a>
 - 😄 github-pages：<a href="https://hitanquan.github.io/" target="_blank">github-pages『 程序员木佑 』</a>
 - 📚 微信读书：<a href="https://muyoujun-wechat-read.notion.site/8e5cc9e318a14dd282892b6e6a798b13" target="_blank">notion『 微信读书 』</a>
-
+- 📺 哔哩哔哩：<a href="https://space.bilibili.com/1981579821?spm_id_from=333.1007.0.0" target="_blank">哔哩哔哩『 程序员木佑 』</a>
   
 <!--
 **hitanquan/hitanquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
